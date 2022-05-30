@@ -10,7 +10,7 @@ prerequisites
 visit link to download and install GO on your machine
 https://go.dev/dl/ 
 
-visit linj to download VS code 
+visit link to download VS code 
 https://code.visualstudio.com/download
 
 
