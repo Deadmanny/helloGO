@@ -8,7 +8,6 @@ fmt.Println("Hello World !!")
 
 paste above code (line 1-5) in your IDE (ex : VS code)
 open terminal 
-paste : cd Downloads/helloGO-main
 type  : go run helloWorld.go
 
 
