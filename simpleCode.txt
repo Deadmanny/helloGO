@@ -5,13 +5,3 @@ fmt.Println("Hello World !!")
 }
 
 
-
-paste above code (line 1-5) in your IDE (ex : VS code)
-open terminal 
-type  : go run helloWorld.go
-
-
-before that your machine should have 'GO' installed
-
-to install 'GO' visit        https://go.dev/dl/
-
